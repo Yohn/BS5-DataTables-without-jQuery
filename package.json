@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@tkrotoff/bootstrap-floating-label": "^0.12.2"
+  }
+}
