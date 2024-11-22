@@ -1,5 +1,35 @@
 {
+  "name": "@skem9/bs5-datatables",
+  "version": "0.1.0",
+  "description": "A simple datatables example for bootstrap 5.3.3 that included searching, searching by column, column sorting, loading from json, autobuilding the table, pagination, row editing, and more, with less than 600 lines of js.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://yohn@github.com/Yohn/BS5-DataTables-without-jQuery.git"
+  },
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "keywords": [
+    "bootstrap-5",
+    "wysiwyg",
+    "editor",
+    "bootstrap-5-extra",
+    "vanilla-js"
+  ],
+  "author": {
+    "name": "Yohn",
+    "url": "https://github.com/Yohn"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yohn/BS5-DataTables-without-jQuery/issues"
+  },
+  "homepage": "https://github.com/Yohn/BS5-DataTables-without-jQuery",
   "dependencies": {
     "@tkrotoff/bootstrap-floating-label": "^0.12.2"
-  }
+  },
+  "browserslist": [
+    "default"
+  ]
 }
