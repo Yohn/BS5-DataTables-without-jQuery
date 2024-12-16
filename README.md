@@ -7,7 +7,9 @@ npm i --save @skem9/bs5-datatables
 ```
 
 ## Demo:
-## [CodePen.io Demo](https://codepen.io/Yohn/pen/VwoJrOd)
+### [Github Pages Demo](https://yohn.github.io/BS5-DataTables-without-jQuery/)
+
+### [CodePen.io Demo](https://codepen.io/Yohn/pen/VwoJrOd)
 
 
 > [!NOTE]
